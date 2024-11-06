@@ -333,7 +333,7 @@
         <div class="col-md-4">
           <div class="card flex-md-row mb-4 shadow-sm ">
             <div class="card-body d-flex flex-column align-items-start col-md-12">
-              <strong class="d-inline-block mb-2 text-success">Televisión</strong>
+              <strong class="d-inline-block mb-2 text-success">Video</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">
                   <?php
